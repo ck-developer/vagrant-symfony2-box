@@ -1,0 +1,14 @@
+{
+    "name": "web-solution/vagrant-symfony2-box",
+    "description": "A Vagrant build to run a Symfony2 development LAMP stack (Nignx, Mysql, Phpmyadmin, PHP-5.5.9, Node.js, Sass, Compass, Less, Composer, OpenJDK, Imagic, ...) on a vmware or virtualbox provider",
+    "keywords": ["vagrant","symfony2", "box", "LAMP", "VirtualBox", "vmware"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ceif Khedhiri",
+            "email": "directeur.general@web-solution.tn",
+            "homepage": "http://www.web-solution.tn",
+            "role": "Developer"
+        }
+    ],
+}

@@ -4,3 +4,4 @@ public/symfony-box.local/vendor
 .vagrant
 .idea
 precise64.box
+/vendor/
