@@ -1,0 +1,6 @@
+public/symfony-box.local/app/cache/*
+public/symfony-box.local/app/logs/*
+public/symfony-box.local/vendor
+.vagrant
+.idea
+precise64.box
