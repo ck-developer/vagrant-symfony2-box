@@ -52,7 +52,7 @@ class nginx-setup {
         group  => root,
         ensure => file,
         mode   => 644,
-        source => '/vagrant/files/nginx/default',
+        source => '/vagrant/src/nginx/default',
         require => Package["nginx"],
     }
 
